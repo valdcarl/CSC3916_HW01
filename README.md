@@ -1,14 +1,3 @@
-# week2
+# CSC3916 HW1
 
-``
-echo "# week2" >> README.md
-echo "/node_modules" >> .gitignore
-echo "npm-debug.log " >> .gitignore
-echo ".DS_Store" >> .gitignore
-echo "/*.env " >> .gitignore
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/shawnmccarthy/week2.git
-git push -u origin master
-``
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/0a7c53e01c437ababe84#?env%5BHomework2%5D=W3sia2V5IjoidG9rZW4iLCJ2YWx1ZSI6IkpXVCBleUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKcFpDSTZJamsxWldReE9ERXhZbUU0T0RVNVl6RTBPR1prWmpaa1kySm1OekkyWW1aa1l6TTFOVGxpT0dZaUxDSjFjMlZ5Ym1GdFpTSTZJblJsYzNSMWMyVnlJaXdpYVdGMElqb3hOVGd5T1RrNU9ETXlmUS44Z0M0WHZqaFVrQUxDS3oxLXpCNEVtVms3bjFuTVZjZVhCamVPeW1tZW9ZIiwiZW5hYmxlZCI6dHJ1ZX0seyJrZXkiOiJ7e3Rva2VufX0iLCJ2YWx1ZSI6Impzb24uYm9keS50b2tlbiIsImVuYWJsZWQiOnRydWV9LHsia2V5IjoiZWNob1BocmFzZSIsInZhbHVlIjoiSGVsbG8gVGhlcmUiLCJlbmFibGVkIjp0cnVlfV0=)
