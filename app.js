@@ -23,6 +23,6 @@ server.listen(process.env.PORT || 8008, () => {
     console.log("Server listening at 8008");
 });
 
-module.exports = server; // for testing
+//module.exports = server; // for testing
 
-curl -d "Hello World" -H "Content-Type: text" -X POST http://localhost:8008
+//curl -d "Hello World" -H "Content-Type: text" -X POST http://localhost:8008
